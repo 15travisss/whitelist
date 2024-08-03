@@ -1,6 +1,7 @@
-
-
-324324 ; Added by 15traviss
-324324 ; Added by 15traviss
-325235 ; Added by 15traviss
-134324 ; Added by 15traviss
+local EliteWhitelist = {
+    324324 ; Added by 15traviss,
+    324324 ; Added by 15traviss,
+    325235 ; Added by 15traviss,
+    134324 ; Added by 15traviss,
+    32434324
+}
