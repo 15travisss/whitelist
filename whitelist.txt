@@ -1,3 +1,6 @@
 local EliteWhitelist = {
-    34343
+    local EliteWhitelist = {,
+    34343,
+    },
+    234523
 }
