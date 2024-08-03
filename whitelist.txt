@@ -1,6 +1,3 @@
 local EliteWhitelist = {
-    324234,
-    234324,
-    234234,
-    gang,
+    1001010,
 }
