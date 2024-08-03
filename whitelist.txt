@@ -1,3 +1,4 @@
 local EliteWhitelist = {
     1001010,
+    092932993,
 }
