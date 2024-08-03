@@ -1,4 +1,1 @@
-local EliteWhitelist = {
-    324234,
-    234234
-}
+
