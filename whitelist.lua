@@ -1,4 +1,4 @@
 
-VIPWhitelist = {
-  234234
+MVPWhitelist = {
+  3234234234
 }
