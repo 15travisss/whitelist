@@ -1,3 +1,3 @@
-VIPWhitelist = { 234234 }
+VIPWhitelist = { }
 MVPWhitelist = { }
-EliteWhitelist = { }
+EliteWhitelist = { 234234234 }
