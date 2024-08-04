@@ -1,1 +1,3 @@
-1234567,
+local EliteWhitelist = {
+    3949399393,
+}
